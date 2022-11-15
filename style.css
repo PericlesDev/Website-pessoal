@@ -6,3 +6,16 @@
 .icon img {
     width: 1%;
 }
+body {
+    background: #a3cacd ;
+}
+
+h1, .image {
+    text-align: center;
+    padding: 10px;
+}
+
+.icon a {
+    padding: 3px;
+    text-decoration: none;
+}
